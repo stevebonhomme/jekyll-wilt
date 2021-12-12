@@ -1,7 +1,7 @@
 ---
 title: About
 layout: page
-description: This is what I do.
+description: This is what I do
 permalink: "/about/"
 background: '/img/bg-about.jpg'
 ---
@@ -16,11 +16,10 @@ I actively partake in programming courses on [Coursera](http://coursera.org), [E
 
 This site is powered by Jekyll, a popular, powerful site generator. 
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This site is using the StartBootstrap Clean Blog Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+You can find the source code for Clean Blog Jekyll at GitHub:
+[clean blog jekyll](https://github.com/StartBootstrap/startbootstrap-clean-blog-jekyll)
 
 You can find the source code for Jekyll at GitHub:
 [jekyll][jekyll-organization] /

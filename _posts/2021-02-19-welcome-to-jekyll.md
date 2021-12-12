@@ -4,6 +4,7 @@ title: 'Welcome to Jekyll!'
 date: 2021-02-19 23:17:16 +0000
 categories: jekyll update
 Author: Steve Bonhomme
+background: '/img/posts/post-jekyll.jpg'
 ---
 This is the default post that comes with Jekyll when you install it. Its quite informative and since this is a website that is centered on what I learned today its only right that I leave it and not delete it. 
 
