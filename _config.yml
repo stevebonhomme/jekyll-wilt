@@ -18,25 +18,29 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: What I Learned Today
+title: WILT
 email: steve@bestwordpress.solutions
 description: >- # this means to ignore newlines until "baseurl:"
-  My name is Steve Bonhonmme and I am a full stack developer with over 10 years experience. 
+  My name is Steve Bonhomme and I am a full stack developer with over 10 years experience. 
   Spend most of my time designing, building and administering dynamic websites. Fluent in 
   multiple programming languages including Python, PHP, JavaScript, Java and C#.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://wilt.dev" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: BestWP_Solution
 github_username:  stevebonhomme
+facebook_username: bestwordpresssolutions
+linkedin_username:  stevebonhomme
 
 
 # Build settings
-theme: minima
+
+#theme: minima
+theme: jekyll-theme-clean-blog
+
 plugins:
   - jekyll-feed
 
-minima:
-  skin: dark
+
 
 
 # Exclude from processing.

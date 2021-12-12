@@ -1,7 +1,9 @@
 ---
 title: About
 layout: page
+description: This is what I do.
 permalink: "/about/"
+background: '/img/bg-about.jpg'
 ---
 
 Welcome to my site! I am excited to have you as my guest! Let me introduce myself.

@@ -1,6 +1,6 @@
 # What I Learned Today
 
-This repository is for my git and Jekyll powered site [wilt](https://wilt.dev).This is a live, full production example of a [Jekyll](https://jekyllrb.com/) site that can be deployed with [Vercel](https://vercel.com). You can easily deploy one of your own. If you need assistance to deploy and administer such a site please feel free to contact me.
+This repository is for my git and Jekyll powered site [wilt](https://wilt.dev). This is a live, full production example of a [Jekyll](https://jekyllrb.com/) site that can be deployed with [Vercel](https://vercel.com). You can easily deploy one of your own. If you need assistance to deploy and administer such a site please feel free to contact me.
 
 ## About
 
