@@ -10,7 +10,7 @@ Welcome to my site! I am excited to have you as my guest! Let me introduce mysel
 
 ![My Photo](/img/bio-photo.jpg)
 
-My name is Steve Bonhonmme and I am a full stack developer with over 10 years experience. Spend most of my time designing, building and administering dynamic websites. Fluent in multiple programming languages including Python, PHP, JavaScript, Java and C#.
+My name is Steve Bonhomme and I am a full stack developer with over 10 years experience. Spend most of my time designing, building and administering dynamic websites. Fluent in multiple programming languages including Python, PHP, JavaScript, Java and C#.
 
 We never stop learning and this site is a testiment of that. This site is supposed to be my programming, learning diary.
 
