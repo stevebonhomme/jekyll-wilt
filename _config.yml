@@ -34,9 +34,10 @@ linkedin_username:  stevebonhomme
 
 # Build settings
 
-#theme: minima
+
 theme: jekyll-theme-clean-blog
 markdown:           kramdown
+highlighter: rouge
 paginate:           5
 paginate_path:      "/posts/page:num/"
 
@@ -45,7 +46,11 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
 
-
+# Markdown Processors
+kramdown:
+  input: GFM
+  auto_ids: true
+  
 
 
 # Exclude from processing.
